@@ -32,10 +32,10 @@ export default function LandingPage() {
         {/* Logo and Title */}
         <div className="text-center space-y-4">
           <div className="inline-flex items-center justify-center w-20 h-20 rounded-2xl bg-foreground text-background text-3xl font-bold">
-            会
+            ペラペラ
           </div>
           <h1 className="text-4xl font-bold tracking-tight text-foreground">
-            KaiwaGo
+            Pera Pera Go
           </h1>
           <p className="text-lg text-muted-foreground">
             Belajar Berbicara Bahasa Jepang
