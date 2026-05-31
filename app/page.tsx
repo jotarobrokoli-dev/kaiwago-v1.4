@@ -131,7 +131,7 @@ export default function LandingPage() {
 
         {/* Footer */}
         <p className="text-center text-xs text-muted-foreground">
-          Cocok untuk pemula JLPT N5
+          がんばって!!!
         </p>
       </div>
     </main>
