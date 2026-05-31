@@ -35,7 +35,7 @@ export default function LandingPage() {
             ペラペラ
           </div>
           <h1 className="text-4xl font-bold tracking-tight text-foreground">
-            Pera Pera Go
+            PeraPeraGo
           </h1>
           <p className="text-lg text-muted-foreground">
             Belajar Berbicara Bahasa Jepang
